@@ -1,0 +1,54 @@
+/* button.component.css */
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.btn-primary:focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+}
+
+
+
+
+
+
+
+h1 {
+    font-size: 3.125rem;
+    color:blueviolet;
+    background-color:rgb(164, 246, 244);
+    font-weight: 500;
+    line-height: 200%;
+    letter-spacing: -0.125rem;
+    text-align: center;
+    margin: 0;
+    font-family:cursive
+  }
+  .main {
+    position: fixed;
+    
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(225, 210, 226);
+}
+h2 {
+    font-size: 2.125rem;
+    color:darkblue;
+    font-weight: 300;
+    line-height: 170%;
+    letter-spacing: -0.125rem;
+    text-align: center;
+    margin: 0;
+    font-family:cursive;
+  }
+  h3 {
+   
+  color:brown;
+  }
